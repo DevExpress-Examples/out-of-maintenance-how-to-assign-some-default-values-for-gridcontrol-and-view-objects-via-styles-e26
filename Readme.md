@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/StyleGridControlAndView/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/StyleGridControlAndView/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/StyleGridControlAndView/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/StyleGridControlAndView/MainWindow.xaml))
+<!-- default file list end -->
 # How to assign some default values for GridControl and View objects via styles
 
 
